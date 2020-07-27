@@ -114,7 +114,7 @@ class Scratch3IFTTTWebhooks {
         const value3 = Cast.toString(this.value3);
         var json_data = { "value1": value1, "value2": value2, "value3": value3};
         var xhr = new XMLHttpRequest();
-        var url = 'https://roasted-navy-syringa.glitch.me?event=' + this.event + '&key=' + this.key
+        var url = 'https://ifttt2scratch.herokuapp.com/?event=' + this.event + '&key=' + this.key
         xhr.open('POST', url);
         xhr.setRequestHeader('Content-Type', 'application/json');
         xhr.send(JSON.stringify(json_data));
