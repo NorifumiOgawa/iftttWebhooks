@@ -55,6 +55,11 @@ IFTTT Webhooksは、ScratchからIFTTTを利用するための拡張機能です
 
 ![IMG_94B94C6081C7-1](https://user-images.githubusercontent.com/770527/144417513-a4797391-4ae7-447a-a7a9-c12412763b89.jpeg)
 
+## 参考動画
+
+- [Scratch to Line Notify via IFTTT Webhooks](https://youtu.be/zy4WgPKa8Q8)
+- [Controlling Smart Locks with Face Recognition by Machine Learning Using Scratch.](https://youtu.be/Lg7jDx3qKSs)
+
 ## For Developers - How to run IFTTT Webhooks extension on your computer
 
 This requires you to have Git and Node.js installed.
