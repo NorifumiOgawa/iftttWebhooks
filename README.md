@@ -42,8 +42,8 @@ IFTTT Webhooksは、ScratchからIFTTTを利用するための拡張機能です
 
 ![Stretch3](https://user-images.githubusercontent.com/770527/144393562-13478991-d35f-4423-98bc-4920955814c3.png)
 
-3. 「IFTTT event:」ブロックにIFTTT Webhooks用「key」を設定します。
-4. 「IFTTT key:」ブロックにIFTTT Appletsに設定したイベント名を設定します。
+3. 「IFTTT event:」ブロックにIFTTT Appletsに設定したイベント名を設定します。
+4. 「IFTTT key:」ブロックにIFTTT Webhooks用「key」を設定します。
 
 ![Stretch3](https://user-images.githubusercontent.com/770527/144414969-921245c7-6e9a-4210-93b3-91f0625a0440.png)
 
