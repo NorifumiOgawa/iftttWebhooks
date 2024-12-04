@@ -82,5 +82,15 @@ This requires you to have Git and Node.js installed.
 % npm start
 ```
 
+ ## License
+ 
+ This project is licensed under the terms of the GNU Affero General Public License v3.0.  
+ See the [LICENSE](./LICENSE) file for details.
+
+## Contacts
+
+- [https://x.com/ogaworks](https://x.com/ogaworks)
+
 ## Release Notes
 * 2020.7.25 v1.0 Initial release
+* 2024.12.4 v1.1 Changed license from BSD 3-Clause License to AGPL-3.0 License
